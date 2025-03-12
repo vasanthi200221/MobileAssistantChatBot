@@ -77,6 +77,8 @@ This will:
 
 Start a FastAPI server on http://127.0.0.1:8003.
 
+http://127.0.0.1:8003/latest this also gives you the respose.
+
 Launch a Gradio web UI on http://127.0.0.1:7861.
 
 Interact with the chatbot by typing queries!
