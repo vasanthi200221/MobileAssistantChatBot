@@ -103,5 +103,5 @@ Change the port in the script (e.g., 8004 instead of 8003).
 
 This project leverages FastAPI, Gradio, and Ollama to create an AI-driven phone chatbot. Follow the installation and setup steps carefully to get started. 🚀
 
-🔹 Developed by: Your Name🔹 License: MIT
+🔹 Developed by:Vasanthi Mopuru
 
